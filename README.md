@@ -4,6 +4,14 @@
 ## Network contains Grouped Global Attention and Cross-Layer Fusion Modules (GCNet)
 A model for segmentation of teeth X-ray.
 GCNet offers better, clearer segmentation and boundaries results in visualization and Evaluation Metrics.
+
+## Authors
+Wenjin Zhong※, Macquarie University
+XiaoXiao Ren, The University of New South Wales
+HanWen Zhang, The University of New South Wales
+Centre for Health Informatics, Australian Institute of Health Innovation, Macquarie University
+
+
 ```markdown
 ## Modules
 - Grouped Global Attention Module (GGA), which contains Grouped Uni-directional Attention Module (GUA) and Global Feature Fusion Module (GFF)
@@ -18,7 +26,7 @@ Existing problem in X-ray of teeth: blur boundaries between teeths, and also bet
 
 Here is the output of segmentation of boundries
 <p align="center">
-  <img src="Image/TeethU-net.png" width="600">
+  <img src="Image/edge.png" width="600">
 </p>
 
 Here is the final output comparing existing models
