@@ -6,9 +6,9 @@ A model for segmentation of teeth X-ray.
 GCNet offers better, clearer segmentation and boundaries results in visualization and Evaluation Metrics.
 
 ## Authors
-Wenjin Zhong※, Macquarie University.
-XiaoXiao Ren, The University of New South Wales.
-HanWen Zhang, The University of New South Wales.
+Wenjin Zhong※, Macquarie University.<br>
+XiaoXiao Ren, The University of New South Wales.<br>
+HanWen Zhang, The University of New South Wales.<br>
 Centre for Health Informatics, Australian Institute of Health Innovation, Macquarie University
 
 
